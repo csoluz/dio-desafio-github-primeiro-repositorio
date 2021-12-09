@@ -16,7 +16,6 @@ Reposítório criado para o Desafio de Projeto sobre Git/GitHub
      Tecle em Commit para criação do reposítório;
 
 2o - Na interface do GitHub obtenha o link do projeto para clonar o projeto em sua máquina local
-     exemplo: 
      
 3o - Em sua máquina local vá para o dirétorio onde será criado o repositório local;
      Exemplo: C:\Users\Cassio\Documents\Dev\Git\Dio
@@ -35,10 +34,12 @@ Reposítório criado para o Desafio de Projeto sobre Git/GitHub
 4o - Apartir deste momento em seu repositório local podem se adicionado ou criado projetos, arquivos, imagens, etc...
 
 5o - Os comandos abaixo clonam todos os arquivos, diretórios, etc... de sua máquina local para o repositório do GitHub:
+
      Exemplo: $ git add .   
               $ git add -A  --> Ambos comandos adicionam sinalizam ao controle de versão local que existem arquivos a serem Clonados
               
 6o - O Comando abaixo efetua a clonagem dos arquivos do repositório local ao repositório em nuvem do GitHub:
+
      Exemplo: $ git commit -M "Inclusão de anotações de como criar Repositório no Git/GitHub"
               
               
