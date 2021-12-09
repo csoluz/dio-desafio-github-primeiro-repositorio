@@ -28,12 +28,15 @@ Reposítório criado para o Desafio de Projeto sobre Git/GitHub
      Exemplo: C:\Users\Cassio\Documents\Dev\Git\Dio
      
      Abra a pasta utilizando o GitBash;
+     
      Com o terminal aberto digite o comando abaixo e após a execução será clonado para sua máquina local:
+     
      Exemplo: $ git clone https://github.com/csoluz/dio-desafio-github-primeiro-repositorio.git
      
      Verifique em sua máquina local que foi criado o repositório identico ao Repositório do GitHub
      
      Em sua máquina local utilizando a tela do términal digite os comandos abaixo:
+     
      Exemplo: $ cd dio-desafio-github-primeiro-repositorio.git --> Muda para diretório do repositório clonado
               $ ls -la   --> Lista arquivos
               $ git status  --> Verifica o status do respositório Branch Main
