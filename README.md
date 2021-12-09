@@ -43,12 +43,12 @@ Reposítório criado para o Desafio de Projeto sobre Git/GitHub
               $ ls -la   --> Lista arquivos
               $ git status  --> Verifica o status do respositório Branch Main
              
-4o - Apartir deste momento em seu repositório local podem se adicionado ou criado projetos, arquivos, imagens, etc...
+4o - Neste momento em seu repositório local podem se adicionado ou criado projetos, arquivos, imagens, etc...
 
 5o - Os comandos abaixo clonam todos os arquivos, diretórios, etc... de sua máquina local para o repositório do GitHub:
 
      Exemplo: $ git add .   
-              $ git add -A  --> Ambos comandos adicionam sinalizam ao controle de versão local que existem arquivos a serem Clonados
+              $ git add -A  --> Ambos comandos adicionam e sinalizam ao controle de versão local que existem arquivos a serem Clonados
               
 6o - O Comando abaixo efetua a clonagem dos arquivos do repositório local ao repositório em nuvem do GitHub:
 
