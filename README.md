@@ -8,11 +8,17 @@ Reposítório criado para o Desafio de Projeto sobre Git/GitHub
 ## Resumo dos comandos
 
 1o - Acesse sua interface do GitHub Logado e;
+
      crie New Repository;
+     
      Defina um nome para o nome repositório;
+     
      Defina uma Descrição para o Repositório;
+     
      Setar o Reposítório como Public;
+     
      Setar Add File Radme File;
+     
      Tecle em Commit para criação do reposítório;
 
 2o - Na interface do GitHub obtenha o link do projeto para clonar o projeto em sua máquina local
