@@ -24,6 +24,7 @@ Reposítório criado para o Desafio de Projeto sobre Git/GitHub
 2o - Na interface do GitHub obtenha o link do projeto para clonar o projeto em sua máquina local
      
 3o - Em sua máquina local vá para o dirétorio onde será criado o repositório local;
+
      Exemplo: C:\Users\Cassio\Documents\Dev\Git\Dio
      
      Abra a pasta utilizando o GitBash;
