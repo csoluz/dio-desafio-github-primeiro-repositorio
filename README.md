@@ -50,9 +50,11 @@ Reposítório criado para o Desafio de Projeto sobre Git/GitHub
      Exemplo: $ git add .   
               $ git add -A  --> Ambos comandos adicionam e sinalizam ao controle de versão local que existem arquivos a serem Clonados
               
-6o - O Comando abaixo efetua a clonagem dos arquivos do repositório local ao repositório em nuvem do GitHub:
+6o - O Comando abaixo efetua o commit no repositório  do Git:
 
-     Exemplo: $ git commit -M "Inclusão de anotações de como criar Repositório no Git/GitHub"
+     Exemplo: $ git commit -m "Inclusão de anotações de como criar Repositório no Git/GitHub"
               
-              
+ 7o - O Comando abaixo efetua a clonagem dos arquivos do repositório do Git para o repositório em nuvem do GitHub:
+
+     Exemplo: $ git push
      
